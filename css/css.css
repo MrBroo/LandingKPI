@@ -1,0 +1,84 @@
+.navbar {
+    margin-bottom: 120px;
+}
+
+.qq {
+    font-size: 60px;
+}
+
+.qq1 {
+    position: relative;
+    box-shadow: 0 80px 100px lightgray;
+    margin-bottom: 170px;
+}
+
+.watch {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: #5ebb63;
+    position: absolute;
+    right: -62px;
+    top: 102px;
+}
+
+
+.line1 {
+    padding-top: 150px;
+    margin-bottom: 220px;
+
+}
+
+.line2 {
+    padding-top: 170px;
+    margin-bottom: 170px;
+}
+
+.text {
+    font-size: 50px;
+    margin: 0;
+}
+
+.email {
+    padding-right: 80px;
+    padding-left: 20px;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    outline: none;
+
+}
+
+.qq3 {
+    margin-bottom: 100px;
+}
+
+.bg {
+    height: 450px;
+    background-color: #f8f9fa;
+    margin-bottom: 100px;
+}
+
+.qq4 {
+    margin-right: 70px;
+}
+
+
+.qq5 {
+    display: flex;
+}
+
+.qq6 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pl-3 {
+    outline: none;
+}
+
